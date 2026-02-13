@@ -7,8 +7,7 @@
 
 <p align="center">
   <img
-    src="https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Namecard_Background_Kaedehara_Kazuha_Autumn_Maple-Viewing.png"
-    alt="Kaedehara Kazuha Namecard"
+    src="https://i.pinimg.com/736x/c6/60/d3/c660d3364359a2b31e415fefbb2e303b.jpg"Kaedehara Kazuha Namecard"
     width="1200"
   />
 </p>
