@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/ae/46/15/ae4615d0037293fe5840f3a45e5a15af.jpg"
+    src="https://i.pinimg.com/736x/54/ca/cf/54cacfa618caa6dc63852d267d84ba4d.jpg"
     width="1200"
   />
 </p>
