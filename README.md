@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/c6/60/d3/c660d3364359a2b31e415fefbb2e303b.jpg"Kaedehara Kazuha Namecard"
+    src="https://i.pinimg.com/1200x/ae/46/15/ae4615d0037293fe5840f3a45e5a15af.jpg"
     width="1200"
   />
 </p>
