@@ -3,11 +3,10 @@
   ❤︎ angel’s guestbook જ⁀➴ ♡
 </a>
 
-UGH HES SO PRETY
 
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/d2/2b/07/d22b07b018daa95a278c283aa2afe87f.jpg"
+    src="https://i.pinimg.com/736x/54/ca/cf/54cacfa618caa6dc63852d267d84ba4d.jpg"
     width="1200"
   />
 </p>
